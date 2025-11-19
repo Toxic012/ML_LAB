@@ -1,7 +1,7 @@
 # ML_LAB
 
 
-#**1. Mean median Mode**
+# **1. Mean median Mode**
 import statistics
 
 
@@ -48,7 +48,7 @@ print(f"Standard Deviation: {std_deviation_value:.2f}")
 
 
 
-#**4. simple linear Regresions**
+# **4. simple linear Regresions**
 
 import pandas as pd
 import numpy as np
@@ -82,7 +82,7 @@ plt.show()
 
 
 
-#**7. KNN**
+# **7. KNN**
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -117,7 +117,7 @@ print("\nClassification Report:")
 print(classification_report(y_test, y_pred))
 
 
-#**10. classification Algorithm**
+# **10. classification Algorithm**
 
 import pandas as pd
 import numpy as np
